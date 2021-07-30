@@ -7,7 +7,7 @@
 * Author: Elroi
 * Author URI: http://yourwebsiteurl.com/
 * Domain Path: /languages
-**/
+**/ 
 
 function tonys_load_textdomain() {
 	load_plugin_textdomain( 'tonyslider', false, dirname( __FILE__ ) . "/languages" );
